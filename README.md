@@ -1,4 +1,5 @@
 
+![leyre-71SHXwBLp5w-unsplash](https://github.com/user-attachments/assets/80ef5534-211f-4c49-b564-26a64c485bc7)
 # Hey there, I’m Pablo! 👋  
 
 I’m a **web developer**, **UI/UX designer**, and **former CEO** of a branding and marketing agency. With over a decade of experience, I’ve evolved from building bespoke WordPress websites to creating modern, scalable applications using **Next.js**, **Node.js**, and **AWS**.  
