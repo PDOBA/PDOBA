@@ -1,5 +1,4 @@
-
-![leyre-7![github](https://github.com/user-attachments/assets/d9b782a7-afc6-4a3f-b81d-b2d48a9c8c72)
+![github](https://github.com/user-attachments/assets/d9b782a7-afc6-4a3f-b81d-b2d48a9c8c72)
 
 # Hey there, I’m Pablo! 👋  
 
