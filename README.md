@@ -1,6 +1,6 @@
 ![github](https://github.com/user-attachments/assets/d9b782a7-afc6-4a3f-b81d-b2d48a9c8c72)
 
-#The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man. 
+# The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man. 
 
 I’m a **web developer**, **UI/UX designer**, and **former CEO** of a branding and marketing agency. With over a decade of experience, I’ve evolved from building bespoke WordPress websites to creating modern, scalable applications using **Next.js**, **Node.js**, and **AWS**.  
 
